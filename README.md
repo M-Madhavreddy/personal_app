@@ -1,6 +1,6 @@
 # personall_app
 
-A new Flutter project.
+A new Flutter project.This project helps tracking of your expenses weekly
 
 ## Getting Started
 
